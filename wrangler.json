@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cloudfare-chancf111",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "eeef049b-5035-47dc-83a0-5d4ba3f56345",
+			"database_name": "chancf111_orders"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
